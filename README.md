@@ -1,3 +1,20 @@
+The Portfolio website application is about an Art Gallery, containing 4 pages created using react components and react router
+
+**-Home**
+
+**-About**
+
+**-Jobs**
+
+**-Contact**
+
+Using react router we can navigate quickly and easily between the 4 differnt pages just by clicking on the button on the navbar given on the top of the page
+
+There are card components used in each page.
+
+React map() is used to create a dynamic component in the Home page.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
